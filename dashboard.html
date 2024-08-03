@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Ikhwat Al-Imaan Group</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <button class="admin-button" onclick="showAdminLogin()">Admin</button>
+    <div id="admin-login" style="display:none;">
+        <input type="password" id="admin-password" placeholder="Enter Admin Password">
+        <button onclick="checkAdminPassword()">Login</button>
+    </div>
+    <h1>About Us</h1>
+    <p>Welcome to Ikhwat Al-Imaan Group. We strive to bring together like-minded individuals...</p>
+    
+    <h2>Share Your Ideas</h2>
+    <form id="idea-form">
+        <textarea id="idea" name="idea" placeholder="Your Idea" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
