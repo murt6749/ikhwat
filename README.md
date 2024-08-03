@@ -48,5 +48,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or comments, please contact [Your Name] at [your-email@example.com].
+For questions or comments, please contact [Nadhii yusuf(+251940293584) and murtesa ahmed(+251967499164)] at [livingistest@gmail.com].
 # ikhwat
